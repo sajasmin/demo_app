@@ -1,6 +1,10 @@
-This is my first text file on GitHub
-
-
+This is my first text file on GitHuib
 added few lines here modifie
+-----> this is my new line editing existing file.
 
 
+added some more lines here
+
+this is adding to startup project jasminpehtani/demo_app 
+
+how's it's going here
